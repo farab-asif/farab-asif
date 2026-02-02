@@ -1,4 +1,14 @@
-## Hi there 👋
+Farab Asif
+
+GRC / Audit professional focused on ISO 27001 (ISMS), risk management, and compliance testing.
+
+## Portfolio projects
+- ISO 27001 Risk Register: https://github.com/farab-asif/ISO-27001-Risk-Register
+
+## Skills
+- Risk assessment (Likelihood × Impact), control mapping, basic security concepts
+- Documentation: policies, procedures, evidence collection
+
 
 <!--
 **farab-asif/farab-asif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
